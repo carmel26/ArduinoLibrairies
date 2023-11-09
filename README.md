@@ -1,4 +1,4 @@
-# ArduinoLibrairies
+# Arduino Librairies for ESP3D
 for ESP3D using ESP32 shield </br>
 ***After downloading esp3d libraire from <a href="https://github.com/luc-github/ESP3D/">download version 2.1.1</a> or use the provided one in this repository</br>
 
