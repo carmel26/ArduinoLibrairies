@@ -1,12 +1,12 @@
 # Arduino Librairies for ESP3D
-for ESP3D using ESP32 shield </br>
+for ESP3D using ESP8266 board </br>
 ## Using Arduino 1.8.9 
 
 ***After downloading esp3d libraire from <a href="https://github.com/luc-github/ESP3D/">download version 2.1.1</a> or use the provided one in this repository</br>
 
 *Unzip the provided librairie for ESP3D or just download a new one </br>
 
-## for the Board use ESP32 Dev Mod and settings as shown on the attachement image.
+## for the Board use ESP8266 Dev Mod and settings as shown on the attachement image.
 
 ## if the file index.html.gz is missing 
 click on upload file </br>
